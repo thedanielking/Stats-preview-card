@@ -127,6 +127,7 @@ article{
     
 
     .card_image{
+        background-image: url(image-header-desktop.jpg);
         width: 100%;
         grid-column: 2;
         grid-row: 1;
